@@ -23,10 +23,10 @@
 
 | Направление | Технологии / Инструменты | Репозитории с проектами |
 | :--- | :--- | :--- |
-| **☕ Backend (Java)** | `Java Core` | [LearningJava](https://github.com/ТВОЙ_НИК/libft) |
-| **🗄 Базы данных** | `SQL` (PostgreSQL) | [LearningSQL](https://github.com/ТВОЙ_НИК/libft) |
-| **🐧 DevOps & ОС** | `Bash`, `Linux` (Ubuntu), `Git`, `Docker` (базово) | [LearningDO](https://github.com/ТВОЙ_НИК/libft) |
-| **⚙️ Низкий уровень** | `C` (алгоритмы, память, указатели) | [LearningC](https://github.com/ТВОЙ_НИК/libft) |
+| **☕ Backend (Java)** | `Java Core` | [LearningJava](https://github.com/orgs/IGKV-Projects-21/teams/learningjava/repositories) |
+| **🗄 Базы данных** | `SQL` (PostgreSQL) | [LearningSQL](https://github.com/orgs/IGKV-Projects-21/teams/learningsql/repositories) |
+| **🐧 DevOps & ОС** | `Bash`, `Linux` (Ubuntu), `Git`, `Docker` (базово) | [LearningDO](https://github.com/orgs/IGKV-Projects-21/teams/learningdo/repositories) |
+| **⚙️ Низкий уровень** | `C` (алгоритмы, память, указатели) | [LearningC](https://github.com/orgs/IGKV-Projects-21/teams/learning/repositories) |
 
 ---
 
